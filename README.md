@@ -1,2 +1,2 @@
 # Speedprog
-thesis defense project.
+Thesis Defense Project.
